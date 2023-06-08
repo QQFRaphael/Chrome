@@ -1,0 +1,11 @@
+{
+  "extension_name": {
+    "message": "网盘万能助手"
+  },
+  "extension_shortname": {
+    "message": "网盘助手"
+  },
+  "extension_desc": {
+    "message": "【网盘万能助手】是直链下载助手的增强扩展，用于获取网盘 Aria，RPC，cURL 等格式下载链接。"
+  }
+}
